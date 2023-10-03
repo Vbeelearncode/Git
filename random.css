@@ -9,3 +9,9 @@ h1 {
 p {
     color: blue;
 }
+
+button {
+    color: white;
+    border-radius:50%;
+    background-color: #000;
+}
